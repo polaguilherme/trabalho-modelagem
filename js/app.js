@@ -18,3 +18,4 @@ function login() {
 function login2() {
     window.location.href = `/assets/home.html`;
 }
+
