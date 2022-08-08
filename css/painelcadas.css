@@ -280,7 +280,7 @@ button {
     z-index: 999;
     align-items: center;
     justify-content: center;
-    border-radius: 1px;
+    border-radius: 10px;
   }
   
   .modal {
