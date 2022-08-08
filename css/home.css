@@ -113,7 +113,7 @@ label #sidebar-btn:hover{
      width: 80px;
 }
 .content{
-    background: url(./img/edificio-do-hospital-da-cidade_74855-6301.jpg) no-repeat;
+    background: url(../img/edificio-do-hospital-da-cidade_74855-6301.jpg) no-repeat;
     background-size:cover ;
     background-position: center;
     height: 100vh;
